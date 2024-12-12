@@ -1,21 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erw@nn
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anthony
 ==============================================================================================================================
-
-Student in cyber...
--------------------
-
-class Personne:
-
-def \_\_init\_\_(self, name, age, school): 
-
-self.name = Erwann 
-
-self.age = 18 
-
-self.school = I know
+name = Anthony
+age = 19 
+school = Guardia CS
 
 *   🌍  I'm based in France
-*   ✉️  You can contact me at [edumas@guardiaschool.fr](mailto:edumas@guardiaschool.fr)
+*   ✉️  You can contact me at [abroquard@guardiaschool.fr](mailto:abroquard@guardiaschool.fr)
 *   🧠  I'm learning cyber security
 *   🤝  I'm open to collaborating on new know l'Edge
 *   ⚡  I'm always playing with DATAS
